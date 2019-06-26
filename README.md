@@ -5,12 +5,13 @@
 - [x] Potato Group: https://potato.im/avhot
 
 #### 2018年11月29日更新：
-- [x] 最新下载地址：[https://di.dk009.com/app.html](https://di.dk009.com/app.html?code=github-huangguashipin)
+- [x] 最新下载地址：[https://www.huangguashipin.cc](https://www.huangguashipin.cc)
+- [x] 最新下载地址：[https://www.huangguashipin.xyz](https://www.huangguashipin.xyz)
+- [x] 最新下载地址：[https://www.huangguashipin.site](https://www.huangguashipin.site)
 
 #### 下载地址
 如果微信、QQ扫码无法打开，请换其他浏览器扫码下载
 
-![黄瓜视频App下载二维码](github-huangguashipin-qr.png)
 
 #### 应用特色：
 - 黄瓜视频App，永久免费在线观看，超快加载，海量正版高清片源，支持后台缓存下载！苹果安卓通用。
